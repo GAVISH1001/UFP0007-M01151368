@@ -1,3 +1,20 @@
+UFP0007-M01151368
+
+Project Option : Option: B
+
+How to Run :
+Open the project in VS Code ;
+Open the terminal.
+
+Run the program using:
+UFP0007- M01151368
+
+Author
+Gavish Doolooa
+
+Module : UFP0007
+
+
 # Lab Equipment Loans
 
 Option B for UFP0007. This practice project will track laptops and Arduino kits borrowed by students, record returns, and list overdue loans.

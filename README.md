@@ -25,6 +25,6 @@ Once the Python program has been implemented, open a terminal in this folder and
 
 ## Design
 
-![Equipment loan classes](class-diagram.png)
+
 
 Each item calculates its due date using its own loan period. For this practice design, laptops have a seven-day loan period and Arduino kits have a fourteen-day loan period.
